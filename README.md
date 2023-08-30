@@ -10,7 +10,7 @@ f- If the name isn't exist the python-telegram-bot send the video's information 
 g- Else nothing will happend.<br>
 h- The webdriver will refreash the page every minute and do the cycle again.<br>
 <br>
-<b>Requirments:<br>
+<h2>Requirments:</h2><br>
 1- python-telegram-bot version 20.3 to install it:<br>
 pip install python-telegram-bot==20.3<br>
 2- selenium library : <br>
@@ -24,7 +24,7 @@ pip install pandas<br>
 7- Creating Telegram bot using botFather and save the bot token.<br>
 8- A good network speed<br>
 <br>
-<b>Note:<br>
+<h2>Note:</h2><br>
 The credintials.py file have 3 values to be enterd:<br>
 username: your email name the assosiated with Youtube.<br>
 password: your email password.<br>
