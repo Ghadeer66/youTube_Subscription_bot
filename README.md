@@ -1,7 +1,7 @@
 # youTube_Subscription_bot
-This is a simple python project that can notify a telegram bot every time your Youtube subscribed channels upload new video./n
-The project runs in the sequence below:/n
-a- The code goes to the youtube accounts page using the ChromeDriver.\n
+This is a simple python project that can notify a telegram bot every time your Youtube subscribed channels upload new video.<br>
+The project runs in the sequence below:<br>
+a- The code goes to the youtube accounts page using the ChromeDriver.<br>
 b- Using selenium library, the webdriver enters the username and password from the credintials file to log in.\n
 c- Now we have been logged in into the subscriptions page and waiting the Telegram user to send {/start} command to the telegram bot.\n
 d- When {/start} is sent, webdriver using Selenium will scrape the videos names,channel name and link and saving them in three lists.\n
