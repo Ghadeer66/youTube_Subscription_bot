@@ -15,7 +15,7 @@ h- The webdriver will refreash the page every minute and do the cycle again.<br>
 pip install python-telegram-bot==20.3<br>
 2- selenium library : <br>
 pip install selenium<br>
-3- Google Chrome browser version 114.0.5735.134 (stop the auto updating so that the Chrome version keep up with the Chromdriver version)<br>
+3- Google Chrome browser version 114.0.5735.134 <b>(stop the auto updating so that the Chrome version keep up with the Chromdriver version)</b><br>
 4- ChromeDriver 114.0.5735.90 you can download it from:<br>
 https://chromedriver.storage.googleapis.com/index.html?path=114.0.5735.90/<br>
 5- Pandas and CSV libraries:<br>
